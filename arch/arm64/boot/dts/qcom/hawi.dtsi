@@ -4364,6 +4364,7 @@
 					qcom,intents = <512 20>;
 					#address-cells = <1>;
 					#size-cells = <0>;
+					status = "disabled";
 
 					q6apm: service@1 {
 						compatible = "qcom,q6apm";
